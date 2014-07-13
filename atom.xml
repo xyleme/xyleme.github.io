@@ -4,7 +4,11 @@
  <title>Xylème</title>
  <link href="/xyleme.eu/atom.xml" rel="self"/>
  <link href="/xyleme.eu/"/>
+<<<<<<< HEAD
  <updated>2014-07-13T22:21:07+02:00</updated>
+=======
+ <updated>2014-07-13T19:56:05+02:00</updated>
+>>>>>>> 90cc115f2dcd368eb21c837e2c73184484a0498a
  <id>/xyleme.eu</id>
  <author>
    <name>Vincent Bain</name>
